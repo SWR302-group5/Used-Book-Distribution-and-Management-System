@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+package.json
+package-lock.json
+
+# Build scripts & reference guidelines
+*.js
+HuongDan_Assignment.md
+DE200565_MinhPT/
+
+# Temporary Word & Office lock files
+~$*.docx
+~$*.xlsx
+*.tmp
+*.bak*
+
+# Logs and runtime files
+*.log
+npm-debug.log*
+
+# OS metadata
+Thumbs.db
+.DS_Store
